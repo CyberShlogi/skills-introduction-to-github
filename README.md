@@ -1,11 +1,14 @@
-<header>
+# Hello, my name is Letlhogonolo
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+I am a Cybersecurity student and I recently obtained my Certificate for Google Foundations of Cybersecurity through Coursera.
+I am currently working on my portfolio so I can document my progress and share with potential recruiters for a junior Cybersecurity Analyst role.
+My strengths includes good communication, both written and verbal. I work well in a team environment as well as independently as I have had the opportunity to run my own business and oversee all operations when I started working and running the business by myself. 
+# Objectives 
+  I would like to complete my Cybersecurity Course and work as a Cybersecurity Analyst. 
+# Certifications
+<a href="https://https://www.coursera.org/share/e3ebe88f2d09d9730f91c5ce957edae8">
+<a href="https://www.shecodes.io/graduates/88684-letlhogonolo-phatshwane">
+
 
 # Introduction to GitHub
 
