@@ -9,9 +9,9 @@ My strengths includes good communication, both written and verbal. I work well i
 <a href="https://https://www.coursera.org/share/e3ebe88f2d09d9730f91c5ce957edae8">
 <a href="https://www.shecodes.io/graduates/88684-letlhogonolo-phatshwane">
 
+# Technical Skills
 
-# Introduction to GitHub
-
+# Soft Skills
 _Get started using GitHub in less than an hour._
 
 </header>
