@@ -6,8 +6,11 @@ My strengths includes good communication, both written and verbal. I work well i
 # Objectives 
   I would like to complete my Cybersecurity Course and work as a Cybersecurity Analyst. 
 # Certifications
-<a href="https://https://www.coursera.org/share/e3ebe88f2d09d9730f91c5ce957edae8">
+<a href="https://www.coursera.org/share/078401f26f0b7866467caa9710621cfe">
+<a href="https://www.coursera.org/share/e3ebe88f2d09d9730f91c5ce957edae8">
 <a href="https://www.shecodes.io/graduates/88684-letlhogonolo-phatshwane">
+
+# LinkedIn
 
 # Technical Skills
 
