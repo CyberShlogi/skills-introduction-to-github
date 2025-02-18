@@ -5,12 +5,14 @@ I am currently working on my portfolio so I can document my progress and share w
 My strengths includes good communication, both written and verbal. I work well in a team environment as well as independently as I have had the opportunity to run my own business and oversee all operations when I started working and running the business by myself. 
 # Objectives 
   I would like to complete my Cybersecurity Course and work as a Cybersecurity Analyst. 
-# Certifications
+# Certificates
 <a href="https://www.coursera.org/share/078401f26f0b7866467caa9710621cfe">
 <a href="https://www.coursera.org/share/e3ebe88f2d09d9730f91c5ce957edae8">
 <a href="https://www.shecodes.io/graduates/88684-letlhogonolo-phatshwane">
 
-# LinkedIn
+
+# LinkedIn 
+<a href="https://www.linkedin.com/in/letlhogonolo-c-phatshwane-903125222/">
 
 # Technical Skills
 
